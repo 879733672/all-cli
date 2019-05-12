@@ -1,8 +1,8 @@
 {
-    "name": "{{name}}",
-    "author": "{{author}}",
-    "version": "{{version}}",
-    "description": "{{description}}",
+    "name": "{{ name }}",
+    "author": "{{ author }}",
+    "version": "{{ version }}",
+    "description": "{{ description }}",
     "private": true,
     "scripts": {
         "start": "umi dev",
